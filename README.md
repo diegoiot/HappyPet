@@ -26,7 +26,7 @@ Hardware
 Software
 
 Windows
-Ubuntu/JetPack 4.6
-LabelImg for Windows
-Anaconda for Windows
-Jetson-inference library
+<li>Ubuntu/JetPack 4.6/li>
+<li>LabelImg for Windows/li>
+<li>Anaconda for Windows/li>
+<li>Jetson-inference library/li>
