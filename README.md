@@ -17,11 +17,13 @@ This is a detection system which will be carried out in different phases, one of
 This project uses:
 
 Hardware
+
 <li>Laptop</li>
 <li>Nvidia Jetson Nano 4GB</li>
 <li>Logitech Web 720P or Ezviz C3A</li>
 <li>Pet Bowl</li>
 <li>Pet Food</li>
+
 
 Software
 
@@ -30,3 +32,8 @@ Software
 <li>LabelImg for Windows</li>
 <li>Anaconda for Windows</li>
 <li>Jetson-inference library</li>
+
+
+
+
+
