@@ -16,9 +16,9 @@ This is a detection system which will be carried out in different phases, one of
 
 This project uses:
 
-Laptop
-Nvidia Jetson Nano 4GB
-Logitech Web 720P or Ezviz C3A
-Pet Bowl
-Pet Food
+<li>Laptop</li>
+<li>Nvidia Jetson Nano 4GB</li>
+<li>Logitech Web 720P or Ezviz C3A</li>
+<li>Pet Bowl</li>
+<li>Pet Food</li>
 
