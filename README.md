@@ -25,7 +25,7 @@ Hardware
 
 Software
 
-Windows
+<li>Windows/li>
 <li>Ubuntu/JetPack 4.6/li>
 <li>LabelImg for Windows/li>
 <li>Anaconda for Windows/li>
