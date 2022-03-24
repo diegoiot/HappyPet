@@ -14,8 +14,6 @@ I was also thinking about what project to do to obtain the Nvidia certification,
 
 This is a detection system which will be carried out in different phases, one of the first is the training of the computer vision model for the detection of the empty or full bowl. The hardware used is the Nvidia Jetson Nano 4GB, which is connected to an Ezviz Wireless Wifi 1080P IP Camera (RTSP Protocol) which is installed viewing the food bowl. Object detection model used SSD MobilenetV2.
 
-## Demo Video
-https://youtu.be/_dSYgNUFQiA
 
 This project uses:
 
@@ -122,6 +120,9 @@ Now Tom is a more Happy Cat!
 
 <img alt="header" width="65%" src="media/b30be880-ceee-48de-86fa-05ac012eb7d0.jpg"/>
 
+## Demo Video
+
+https://youtu.be/_dSYgNUFQiA
 
 ## What's next?
 
