@@ -107,6 +107,11 @@ detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/la
 IP CAMERA EZVIZ
 
 ```bash
-Detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes rtsp://USER:KEYCAM@IP_LAN:554/H.264
+detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes rtsp://USER:KEYCAM@IP_LAN:554/H.264
 ```
 
+Result!
+<img alt="header"  src="media/FULLBOWL.png"/><img alt="header"  src="media/FULLempty.png"/>
+
+
+Thanks!
