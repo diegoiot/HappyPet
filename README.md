@@ -124,6 +124,10 @@ Now Tom is a more Happy Cat!
 
 https://youtu.be/_dSYgNUFQiA
 
+## Nvidia Forums
+
+https://forums.developer.nvidia.com/t/happy-pet-ai-pet-bowl-detector
+
 ## What's next?
 
 Improve the detection of the computer vision algorithm, also create a Mobile application that warns when the pet's bowl is empty. I will update the following steps.
