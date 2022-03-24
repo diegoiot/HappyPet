@@ -39,8 +39,11 @@ First steps
 In the first instance, the computer vision algorithm was trained to detect if the bowl is empty or full.
 One of the first jobs I did was to collect the data, I took about 90 Photos of the empty bowl and another 90 with the full bowl.
 The annotations of the images are made with the Anaconda + LabelImg tool using the Windows operating system
+
 First Install Anaconda (Link) https://www.anaconda.com/products/individual#download
+
 Second follow steps of Labelimg (Link ) https://github.com/tzutalin/labelImg
+
 Once Anaconda is installed, run it and clone the LabelImg repository.
 ```bash
 $ git clone https://github.com/tzutalin/labelImg
