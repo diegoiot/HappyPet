@@ -12,7 +12,7 @@ I was also thinking about what project to do to obtain the Nvidia certification,
 
 # Project Overview
 
-This is a detection system which will be carried out in different phases, one of the first is the training of the computer vision model for the detection of the empty or full bowl. The hardware used is the Nvidia Jetson Nano 4GB, which is connected to an Ezviz Wireless Wifi 1080P IP Camera (RTSP Protocol) which is installed viewing the food bowl.
+This is a detection system which will be carried out in different phases, one of the first is the training of the computer vision model for the detection of the empty or full bowl. The hardware used is the Nvidia Jetson Nano 4GB, which is connected to an Ezviz Wireless Wifi 1080P IP Camera (RTSP Protocol) which is installed viewing the food bowl. Object detection model used SSD MobilenetV2.
 
 This project uses:
 
