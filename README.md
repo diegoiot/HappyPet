@@ -67,3 +67,8 @@ Then open the selected folder where the images are located and tag the images on
 <img alt="header" width="65%" src="media/Captura de pantalla 2022-03-23 163912.png"/>
 </div>
 
+Once the annotations of the images are finished, the following command must be executed in the Anaconda terminal
+jupyter notebook
+
+Then it will open the browser and open the file JetsonDataset.ipynb that I leave on Github. Once opened, execute the different steps of this executable.
+(You can modify the different paths of your folders)
