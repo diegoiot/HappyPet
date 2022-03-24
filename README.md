@@ -80,7 +80,7 @@ Then it will open the browser and open the file JetsonDataset.ipynb that I leave
 
 Once finished, different files are created in the ImageSets folder. Copy your entire project folder to the Jetson Nano device.
 
-## First steps in Jetson Nano
+## Steps in Jetson Nano
 
 Once inside jetson nano, previously configured and loaded the different Jetson-Inference programs. Paste the files inside jetson nano and execute the commands to run Docker on jetson nano.
 Once inside run the following command to train the model in Jetson Nano
