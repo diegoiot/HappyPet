@@ -34,7 +34,7 @@ Software
 <li>Jetson-inference library</li>
 
 
-## First steps
+## First steps in Laptop
 
 In the first instance, the computer vision algorithm was trained to detect if the bowl is empty or full.
 One of the first jobs I did was to collect the data, I took about 90 Photos of the empty bowl and another 90 with the full bowl.
@@ -77,3 +77,7 @@ Then it will open the browser and open the file JetsonDataset.ipynb that I leave
 
 <img alt="header" width="65%" src="media/capturaJupyter.png"/>
 </div>
+
+Once finished, different files are created in the ImageSets folder. Copy your entire project folder to the Jetson Nano device.
+
+## First steps in Jetson Nano
