@@ -64,3 +64,7 @@ Inside the JPEGImages layer you should save all the images you want to tag.
 
 Then open the selected folder where the images are located and tag the images one by one.
 
+<div align="center">
+  <img alt="header" width="50%" src="media/Captura de pantalla 2022-03-23 163912.png"/>
+</div>
+
