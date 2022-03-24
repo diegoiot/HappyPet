@@ -116,9 +116,9 @@ detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/la
 <img alt="header"  src="media/FULLBOWL.png"/><img alt="header"  src="media/FULLempty.png"/>
 
 Now Tom is a more Happy Cat!
-```bash
-b30be880-ceee-48de-86fa-05ac012eb7d0.jpg
-```
+
+<img alt="header" width="65%" src="media/b30be880-ceee-48de-86fa-05ac012eb7d0.jpg"/>
+
 
 ##What's next?
 
