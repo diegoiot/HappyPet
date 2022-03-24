@@ -92,7 +92,7 @@ $ python3 train-ssd.py –dataset-=voc –data=data/PetBowl –model-dir=models/
 Then convert the model
 
 ```bash
-Python3 onnx_xport.py –model-dir=models/PetBowl/
+$ python3 onnx_xport.py –model-dir=models/PetBowl/
 ```
 
 Once the Model folders that are inside your model are finished, the files to load the model have already been created.
@@ -101,13 +101,13 @@ The model can be tested as follows.
 WEBCAM
 
 ```bash
-detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes /dev/video0
+$ detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes /dev/video0
 ```
 
 IP CAMERA EZVIZ
 
 ```bash
-detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes rtsp://USER:KEYCAM@IP_LAN:554/H.264
+ $ detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes rtsp://USER:KEYCAM@IP_LAN:554/H.264
 ```
 
 ## Result!
