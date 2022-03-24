@@ -50,11 +50,11 @@ $ git clone https://github.com/tzutalin/labelImg
 ```
 Once the repository is downloaded, run the Labelimg installation instructions
 ```bash
-conda install pyqt=5
-conda install -c anaconda lxml
-pyrcc5 -o libs/resources.py resources.qrc
-python labelImg.py
-python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
+$ conda install pyqt=5
+$ conda install -c anaconda lxml
+$ pyrcc5 -o libs/resources.py resources.qrc
+$ python labelImg.py
+$ python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 ```
 
 Inside the labelImg folder, you must create the data set with the following folders Project name inside the following folder Annotations / ImageSets / JPEGImages subfolders. Inside the ImageSets folder, create a folder named Main.
@@ -81,3 +81,10 @@ Then it will open the browser and open the file JetsonDataset.ipynb that I leave
 Once finished, different files are created in the ImageSets folder. Copy your entire project folder to the Jetson Nano device.
 
 ## First steps in Jetson Nano
+
+Once inside jetson nano, previously configured and loaded the different Jetson-Inference programs. Paste the files inside jetson nano and execute the commands to run Docker on jetson nano.
+Once inside run the following command to train the model in Jetson Nano
+
+```bash
+$ python3 train-ssd.py –dataset-=voc –data=data/PetBowl –model-dir=models/PetBowl –size=2 –epochs=1
+```
