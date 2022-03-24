@@ -59,5 +59,8 @@ python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
 Inside the labelImg folder, you must create the data set with the following folders Project name inside the following folder Annotations / ImageSets / JPEGImages subfolders.
 Inside the JPEGImages layer you should save all the images you want to tag.
+
 <img alt="header"  src="media/Captura .png"/>
+
+Then open the selected folder where the images are located and tag the images one by one.
 
