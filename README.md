@@ -111,6 +111,8 @@ detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/la
 ```
 
 Result!
+
+
 <img alt="header"  src="media/FULLBOWL.png"/><img alt="header"  src="media/FULLempty.png"/>
 
 
