@@ -110,10 +110,18 @@ IP CAMERA EZVIZ
 detectnet –model=models/Petbowl/ssd-mobilenet.onnx –labels=models/PetBowl/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes rtsp://USER:KEYCAM@IP_LAN:554/H.264
 ```
 
-Result!
+##Result!
 
 
 <img alt="header"  src="media/FULLBOWL.png"/><img alt="header"  src="media/FULLempty.png"/>
 
+Now Tom is a more Happy Cat!
+```bash
+b30be880-ceee-48de-86fa-05ac012eb7d0.jpg
+```
+
+##What's next?
+
+Improve the detection of the computer vision algorithm, also create a Mobile application that warns when the pet's bowl is empty. I will update the following steps.
 
 Thanks!
