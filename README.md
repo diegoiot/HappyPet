@@ -34,7 +34,7 @@ Software
 <li>Jetson-inference library</li>
 
 
-First steps
+## First steps
 
 In the first instance, the computer vision algorithm was trained to detect if the bowl is empty or full.
 One of the first jobs I did was to collect the data, I took about 90 Photos of the empty bowl and another 90 with the full bowl.
